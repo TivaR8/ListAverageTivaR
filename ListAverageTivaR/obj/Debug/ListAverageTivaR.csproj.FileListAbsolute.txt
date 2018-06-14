@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\bin\Debug\ListAverageTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\bin\Debug\ListAverageTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\bin\Debug\ListAverageTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.frmListAverage.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 5\ListAverageTivaR\ListAverageTivaR\obj\Debug\ListAverageTivaR.pdb
